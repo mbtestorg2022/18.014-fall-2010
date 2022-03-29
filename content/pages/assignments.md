@@ -10,16 +10,117 @@ Apostol, Tom M. _Calculus, Volume 1: One-Variable Calculus, with An Introduction
 
 [Course notes]({{< baseurl >}}/pages/course-notes) by James Raymond Munkres, Professor of Mathematics, Emeritus.
 
-| PROBLEM SET | SOLUTIONS |
-| --- | --- |
-| Problem set 1 ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset1)) | ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset1sols)) |
-| Problem set 2 ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset2)) | ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset2sols)) |
-| Problem set 3 ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset3)) | ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset3sols)) |
-| Problem set 4 ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset4)) | ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset4sols)) |
-| Problem set 5 ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset5)) | ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset5sols)) |
-| Problem set 6 ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset6)) | ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset6sols)) |
-| Problem set 7 ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset7)) | ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset7sols)) |
-| Problem set 8 ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset8)) | ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset8sols)) |
-| Problem set 9 ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset9)) | ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset9sols)) |
-| Problem set 10 ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset10)) | ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset10sols)) |
-| Problem set 11 - part I ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset11a)), part II ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset11b)) | Parts I and II ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset11sols))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM SET
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 1 ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_014f10_pset1sols))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 2 ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_014f10_pset2sols))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 3 ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset3))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_014f10_pset3sols))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 4 ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset4))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_014f10_pset4sols))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 5 ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset5))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_014f10_pset5sols))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 6 ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset6))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_014f10_pset6sols))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 7 ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset7))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_014f10_pset7sols))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 8 ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset8))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_014f10_pset8sols))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 9 ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset9))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_014f10_pset9sols))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 10 ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset10))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_014f10_pset10sols))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 11 - part I ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset11a)), part II ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset11b))
+{{< tdclose >}}
+{{< tdopen >}}
+Parts I and II ([PDF]({{< baseurl >}}/resources/mit18_014f10_pset11sols))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
