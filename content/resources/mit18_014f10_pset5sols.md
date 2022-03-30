@@ -4,6 +4,7 @@ description: This resource contains 6 solutions about inverse function g?, the e
   value theorem and distance between (w, 0).
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-014-calculus-with-theory-fall-2010/66e412c40f7af7954e8d9a5494f4b96d_MIT18_014F10_pset5sols.pdf
 file_type: application/pdf
+parent_uid: 09800893-0e69-84c6-eff3-3bb84ba9d6a4
 resourcetype: Document
 title: MIT18_014F10_pset5sols.pdf
 uid: 66e412c4-0f7a-f795-4e8d-9a5494f4b96d
